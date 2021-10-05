@@ -188,3 +188,13 @@
 .page4 {
     background-image: url(./bg-2.jpg);
 }
+.colors {
+    border: 0.5px solid lightskyblue;
+    border-radius: 10px;
+    width: 75px;
+    height: 18px;
+    background-color: lightsteelblue;
+    text-decoration: none;
+    letter-spacing: 1px;
+    text-align: center;
+}
